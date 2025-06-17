@@ -11,7 +11,7 @@
 ## EDUCATION
   - Bachelors of Technology, Shri Vishnu Engineering College for Women (CGPA: 8.88)    	      	
   - Intermediate, Narayana Junior College (Percentage: 90.2%)
-  - 
+    
 ## 🔧 Skills
 ### Programming Languages
   - C, C++, Java, Python, C#
