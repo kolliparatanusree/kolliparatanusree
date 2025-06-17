@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanu Sree Kollipara
 
-<!--
-**kolliparatanusree/kolliparatanusree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergrad | 🛡️ Cybersecurity | 💻 Developer & Mentor
 
-Here are some ideas to get you started:
+## 💡 About Me
+- 🔐 Cybersecurity & ML Enthusiast  
+- 🧠 Mentored juniors in DSA  
+- 🌱 Learning React, Node.js, MongoDB  
+- ✨ Building real-world projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Languages:** Python, C++, Java, JavaScript  
+- **Web Dev:** React.js, Express.js, MongoDB  
+- **Cyber:** Security tools, Ethical Hacking basics  
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/kollipara-tanu-sree-473b84256/)
+- [Email](mailto:tanusreekollipara@gmail.com)
