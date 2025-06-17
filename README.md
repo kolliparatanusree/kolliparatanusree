@@ -13,17 +13,17 @@
   - Intermediate, Narayana Junior College (Percentage: 90.2%)
   - 
 ## 🔧 Skills
-# Programming Languages
+### Programming Languages
   - C, C++, Java, Python, C#
   - HTML, CSS, JavaScript
     
-# Operating Systems
+### Operating Systems
   - Windows, Linux, Kali Linux
   
-# Developer Tools
+### Developer Tools
   - VS Code, GitHub, Android Studio, Jupyter Notebook, Google Colab.
 
-# Databases
+### Databases
   - MySQL, MongoDB, SQLite
 
 ## 📫 Contact Me
