@@ -14,23 +14,23 @@
     
 ## 🔧 Skills
 
-###  💻  Programming Languages
-  - C, C++, Java, Python
-
-### 💻 Tech Stack
-  - **Frontend:** React.js
-  - **Backend:** Node.js, Express.js
-  - **Database:** MongoDB
-  - **Other:** Flask, ML, CSS, HTML
-
-### 🖥️ Operating Systems
-  - Windows, Linux, Kali Linux
+  ###  💻  Programming Languages
+    - C, C++, Java, Python
   
-### 🛠️ Developer Tools
-  - VS Code, GitHub, Android Studio, Jupyter Notebook, Google Colab.
-
-### 🗄️ Databases
-  - MySQL, MongoDB, SQLite
+  ### 💻 Tech Stack
+    - **Frontend:** React.js
+    - **Backend:** Node.js, Express.js
+    - **Database:** MongoDB
+    - **Other:** Flask, ML, CSS, HTML
+  
+  ### 🖥️ Operating Systems
+    - Windows, Linux, Kali Linux
+    
+  ### 🛠️ Developer Tools
+    - VS Code, GitHub, Android Studio, Jupyter Notebook, Google Colab.
+  
+  ### 🗄️ Databases
+    - MySQL, MongoDB, SQLite
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/kollipara-tanu-sree-473b84256/)
