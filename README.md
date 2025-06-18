@@ -1,22 +1,30 @@
 # 👋 Hi, I'm Tanu Sree Kollipara
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F798&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tanu+Sree+Kollipara;CS+Undergrad+%7C+Cybersecurity+Student;ML+Enthusiast)
 
-🎓 CS Undergrad | 🛡️ Cybersecurity | 💻 Developer & Mentor
+🎓 CS Undergrad | 🛡️ Cybersecurity | 💻 Mentor
 
 ## 💡 About Me
-- 🔐 Cybersecurity & ML Enthusiast  
-- 🧠 Mentored juniors in DSA  
-- 🌱 Learning React, Node.js, MongoDB  
-- ✨ Building real-world projects
+  - A CS undergrad with a specialization in Cybersecurity.
+  - 💻 Passionate about full-stack development and building real-world ML applications.  
+  - 🚀 Always eager to learn, lead, and contribute to meaningful tech projects.
+  - 🧠 Mentored juniors in DSA  
+  - ✨ Building real-world projects
 
 ## EDUCATION
   - Bachelors of Technology, Shri Vishnu Engineering College for Women (CGPA: 8.88)    	      	
   - Intermediate, Narayana Junior College (Percentage: 90.2%)
     
 ## 🔧 Skills
+
 ### Programming Languages
-  - C, C++, Java, Python, C#
-  - HTML, CSS, JavaScript
-    
+  - C, C++, Java, Python
+
+### 💻 Tech Stack
+  - **Frontend:** React.js
+  - **Backend:** Node.js, Express.js
+  - **Database:** MongoDB
+  - **Other:** Flask, ML, CSS, HTML
+
 ### Operating Systems
   - Windows, Linux, Kali Linux
   
